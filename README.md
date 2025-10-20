@@ -42,5 +42,7 @@ I'm a computer science student at the University of Oslo, currently completing m
 ## Contribution Calendar
 
 <div align="center">
-  <img width="100%" src="https://github.com/daniel-shla/daniel-shla/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" />
+  <a href="https://skyline.github.com/daniel-shla/2025" target="_blank">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-shla&theme=tokyonight" alt="Daniel's GitHub contribution graph" />
+  </a>
 </div>
