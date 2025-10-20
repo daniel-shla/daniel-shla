@@ -41,7 +41,6 @@ I'm a computer science student at the University of Oslo, currently completing m
 
 ## Contribution Calendar
 
-<!-- After workflow runs, this will display the isocalendar -->
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=daniel-shla&show_icons=true&hide=stars,issues&theme=tokyonight&hide_border=true&custom_title=GitHub%20Contributions" />
+  <img width="100%" src="https://github.com/daniel-shla/daniel-shla/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" />
 </div>
