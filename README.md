@@ -1,18 +1,18 @@
-# Hello, I'm Daniel! 👋
+# Hello, I'm Daniel!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&width=435&lines=Computer+Science+Student;Fullstack+Developer;Oslo+University" alt="Typing SVG" />
 </div>
 
-## 🎓 About Me
+## About Me
 
 I'm a computer science student at the University of Oslo, currently completing my bachelor's degree and planning to continue with a master's degree.
 
-- 🌱 Exploring both **frontend** and **backend** development
-- 💻 Experience with **low-level C programming**, **functional programming**, and **system-level coding**
-- 🚀 Completed a fulfilling summer internship in 2025, enhancing my fullstack development skills
+- Exploring both **frontend** and **backend** development
+- Experience with **low-level C programming**, **functional programming**, and **system-level coding**
+- Completed a fulfilling summer internship in 2025, enhancing my fullstack development skills
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
   
@@ -27,11 +27,10 @@ I'm a computer science student at the University of Oslo, currently completing m
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniel-shla&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Shla GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-shla&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-shla&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br/>
@@ -42,15 +41,4 @@ I'm a computer science student at the University of Oslo, currently completing m
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
     <img alt="Metrics" src="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
   </picture>
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/daniel-shla" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/daniel-shla" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
 </div>
