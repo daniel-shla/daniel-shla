@@ -36,9 +36,6 @@ I'm a computer science student at the University of Oslo, currently completing m
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
-    <img alt="Metrics" src="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daniel-shla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-shla&theme=tokyonight&hide_border=true" />
 </div>
