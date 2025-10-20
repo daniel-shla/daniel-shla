@@ -32,3 +32,13 @@ I'm a computer science student at the University of Oslo, currently completing m
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-shla&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
+    <img alt="Metrics" src="https://github.com/daniel-shla/daniel-shla/blob/main/github-metrics.svg">
+  </picture>
+</div>
