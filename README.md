@@ -38,3 +38,9 @@ I'm a computer science student at the University of Oslo, currently completing m
 <div align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-shla&theme=tokyonight&hide_border=true" />
 </div>
+
+## Contribution Calendar
+
+<div align="center">
+  <img width="100%" src="https://github.com/daniel-shla/daniel-shla/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" />
+</div>
