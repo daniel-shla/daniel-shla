@@ -1,7 +1,7 @@
 # Hello, I'm Daniel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&width=435&lines=Computer+Science+Student;Fullstack+Developer;Oslo+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&width=435&lines=Computer+Science+Student;Fullstack+Developer;University+Of+Oslo" alt="Typing SVG" />
 </div>
 
 ## About Me
