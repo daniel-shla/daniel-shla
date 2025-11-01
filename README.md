@@ -35,6 +35,3 @@ I'm a computer science student at the University of Oslo, currently completing m
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" />
-</div>
