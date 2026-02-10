@@ -27,11 +27,5 @@ I'm a computer science student at the University of Oslo, currently completing m
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-shla&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 <br/>
 
