@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a computer science student at the University of Oslo, currently completing my bachelor's degree and planning to continue with a master's degree.
+I'm a computer science student at the University of Oslo, currently completing my masters's degree
 
 - Exploring both **frontend** and **backend** development
 - Experience with **low-level C programming**, **functional programming**, and **system-level coding**
